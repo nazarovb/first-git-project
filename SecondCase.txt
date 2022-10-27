@@ -5,5 +5,3 @@ Feature: Google Main Page
     When I go to the "google.com"
 
     Then URL should be "https://google.com"
-
-
